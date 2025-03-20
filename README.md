@@ -44,3 +44,4 @@
 ## 🎯 Future Goals
 - **Learn learn the basics of Data Science:** Deepen my Data Science expertise by mastering R and Python languages.   
 - **Improve Database Proficiency:** Expand my knowledge and skills in database management and optimization.  
+- **Learn learn the basics of QA Engineering**
