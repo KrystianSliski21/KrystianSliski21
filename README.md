@@ -1,6 +1,6 @@
 # 💻 About Me
 
-🎓 I am currently studying **Computer Science** in Poland, where I live. My passion lies Data Science, and I aspire to grow as a **Data Scientist**, contributing to impactful and scalable solutions while constantly improving my skills and knowledge.
+🎓 I am currently studying **Computer Science** in Poland, where I live. I aspire to grow as a **QA Engineer**, but I am also interested in **Data Science**.
 
 ---
 
