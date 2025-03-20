@@ -11,7 +11,7 @@
 
 🌍 **Languages I Speak:**
 - **Polish** (Native) 🇵🇱  
-- **English** (B1+) 🇬🇧 
+- **English** (B2) 🇬🇧 
 
 ---
 
